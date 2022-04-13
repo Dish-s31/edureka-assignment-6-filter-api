@@ -7,7 +7,7 @@ const hostname = 'localhost';
 
 
 
-const serverDb = 'mongodb+srv://newUser:pleaseWork@cluster0.unsfq.mongodb.net/db29?retryWrites=true&w=majority';
+const serverDb = 'mongodb+srv://newUser:passwordnotshared@cluster0.unsfq.mongodb.net/db29?retryWrites=true&w=majority';
 const router = require('./Router/index');
 
 
